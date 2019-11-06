@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "generatecode.h": "c",
+        "header.h": "c"
+    }
+}
